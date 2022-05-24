@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "38436350814",
+    "firebase_url": "https://gsignin-c03f5-default-rtdb.firebaseio.com",
+    "project_id": "gsignin-c03f5",
+    "storage_bucket": "gsignin-c03f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38436350814:android:5493195327b49ddbce3dcf",
+        "android_client_info": {
+          "package_name": "com.example.firechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38436350814-1djkpkttsbtlu2acfji8cpvlhorfqoqo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firechat",
+            "certificate_hash": "0709a00358edb52a589f14a6fd81ce767d7f5320"
+          }
+        },
+        {
+          "client_id": "38436350814-fff69gfbthvbjps4ar3mj6r6tjnr91pu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4uya7uwpzAVKkrK1lH3NAWNjnYze5yJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38436350814-fff69gfbthvbjps4ar3mj6r6tjnr91pu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38436350814:android:0234d7c10e1350b1ce3dcf",
+        "android_client_info": {
+          "package_name": "com.example.gsignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38436350814-m7f7e0cqoj5k683cinu4k3hq7as6st65.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gsignin",
+            "certificate_hash": "0709a00358edb52a589f14a6fd81ce767d7f5320"
+          }
+        },
+        {
+          "client_id": "38436350814-fff69gfbthvbjps4ar3mj6r6tjnr91pu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4uya7uwpzAVKkrK1lH3NAWNjnYze5yJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38436350814-fff69gfbthvbjps4ar3mj6r6tjnr91pu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38436350814:android:03daba405320afb2ce3dcf",
+        "android_client_info": {
+          "package_name": "pe.edu.upt.firechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38436350814-arm5r7tmrjk1i6a3g74vcr9j4kutcdqj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pe.edu.upt.firechat",
+            "certificate_hash": "5cbfa844b41319fe28a68d2a9078c2a9baa122bf"
+          }
+        },
+        {
+          "client_id": "38436350814-fff69gfbthvbjps4ar3mj6r6tjnr91pu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4uya7uwpzAVKkrK1lH3NAWNjnYze5yJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38436350814-fff69gfbthvbjps4ar3mj6r6tjnr91pu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
