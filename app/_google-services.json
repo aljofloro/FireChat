@@ -8,6 +8,43 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:38436350814:android:5493195327b49ddbce3dcf",
+        "android_client_info": {
+          "package_name": "com.example.firechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38436350814-1djkpkttsbtlu2acfji8cpvlhorfqoqo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firechat",
+            "certificate_hash": "0709a00358edb52a589f14a6fd81ce767d7f5320"
+          }
+        },
+        {
+          "client_id": "38436350814-fff69gfbthvbjps4ar3mj6r6tjnr91pu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4uya7uwpzAVKkrK1lH3NAWNjnYze5yJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38436350814-fff69gfbthvbjps4ar3mj6r6tjnr91pu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:38436350814:android:0234d7c10e1350b1ce3dcf",
         "android_client_info": {
           "package_name": "com.example.gsignin"
@@ -52,27 +89,11 @@
       },
       "oauth_client": [
         {
-          "client_id": "38436350814-4po1268ro8frhs04r94i6pqapvb03qo0.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "pe.edu.upt.firechat",
-            "certificate_hash": "1d728e2c290118361a75b45114ef6a8cca135704"
-          }
-        },
-        {
           "client_id": "38436350814-arm5r7tmrjk1i6a3g74vcr9j4kutcdqj.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "pe.edu.upt.firechat",
             "certificate_hash": "5cbfa844b41319fe28a68d2a9078c2a9baa122bf"
-          }
-        },
-        {
-          "client_id": "38436350814-n1bqpfg5jvsh2jh6ci543citop11cmbk.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "pe.edu.upt.firechat",
-            "certificate_hash": "0709a00358edb52a589f14a6fd81ce767d7f5320"
           }
         },
         {

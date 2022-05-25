@@ -49,10 +49,4 @@ class MainActivity : AppCompatActivity() {
     navView.setupWithNavController(navController)
   }
 
-  override fun onStop() {
-    super.onStop()
-    AuthUI.getInstance().signOut(this)
-    startActivity(Intent(this, LoginActivity::class.java))
-    finish()
-  }
 }

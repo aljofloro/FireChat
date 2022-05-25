@@ -9,6 +9,7 @@ import android.widget.Toast
 import com.firebase.ui.auth.AuthUI
 import com.firebase.ui.auth.ErrorCodes
 import com.firebase.ui.auth.IdpResponse
+import pe.edu.upt.firechat.model.FirestoreUtil
 
 class LoginActivity : AppCompatActivity() {
 
@@ -39,8 +40,11 @@ class LoginActivity : AppCompatActivity() {
     if(requestCode == RC_SIGN_IN){
       val response = IdpResponse.fromResultIntent(data)
       if(resultCode == Activity.RESULT_OK){
-        val intent = Intent(this, MainActivity::class.java)
-        startActivity(intent)
+        //iniciamos Firestore
+        FirestoreUtil.initCurrentUserIfFirstTime {
+          val intent = Intent(this, MainActivity::class.java)
+          startActivity(intent)
+        }
       }else if(resultCode == Activity.RESULT_CANCELED){
         if(response == null) return
         when(response.error?.errorCode){
